@@ -1,16 +1,20 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: tentang pola kesehatan
+subtitle: dinasa
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+pola hidup sehat
+      pola hidup sehat merupakan hai yang wajib kita lakukan,terutama pada masa pandemi
+dengan memilah dan mengatur pola hidup yang sehat.tentunya tubuh kita akan merasakan banyak manfaat.kita hanya perlu memperhatikan kebiasaan keci sehari-hari dan mengubahnya supaya lebih bermanfaat untuk kesehatan tubuh.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+       menurut kotler,pola hidup sehat adalah gambaran dari aktivitas atau kegiatan kita yang didukung oleh keinginan dan minat kita dan bagaimana pikiran kita menjalaninya dalam berinteraksi dengan lingkungan kita.
 
-What else do you need?
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+
+
+
+
+
